@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rachana Koyyala</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<img align="right" alt="coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=31rachana&label=Profile%20views&color=0e75b6&style=flat" alt="31rachana" /> </p>
 
 - 🔭 Worked as an Intern on IoT **Industrial Automation**
