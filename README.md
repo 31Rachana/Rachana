@@ -1,5 +1,4 @@
-![logo](https://github.com/31Rachana/Rachana/blob/main/Linkedin.png)
-
+![logo](https://github.com/31Rachana/Rachana/blob/main/Linkedin.png)  
 <h1 align="center">Hi 👋, I'm Rachana Koyyala</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
