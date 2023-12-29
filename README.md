@@ -1,16 +1,14 @@
-![logo](https://github.com/rachanakoyyala/rachanakoyyala/blob/main/Linkedin.png)  
+![logo](https://github.com/rachanakoyyala/rachanakoyyala/blob/main/Linkedin.png) 
 
 <h1 align="center">Hi 👋, I'm Rachana Koyyala</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
 <img align="right" alt="coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 
-
-- 🔭 Worked as an Intern on IoT **Industrial Automation**
+- 🔭 Worked as an Intern on IoT developed project **Industrial Automation**
 
 - 🌱 I’m currently learning **Data Structures, Oracle, Tesseract**
 
-- 🔭Front End Developer(Intern) **E-commerce Website, College Forum**
+- 🔭Front End Developer(Intern) developed projects **E-commerce Website, College Forum**
 
 - 💬 Ask me about **java, OOPS, Operating Systems, Embedded Systems**
 
